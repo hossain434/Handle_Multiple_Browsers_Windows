@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58853" started-at="2018-07-04T04:34:31Z" finished-at="2018-07-04T04:35:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58853" started-at="2018-07-04T04:34:31Z" finished-at="2018-07-04T04:35:30Z">
+      <class name="MultipleWindow.MultipleWindowHandle">
+        <test-method status="PASS" signature="newWindow()[pri:0, instance:MultipleWindow.MultipleWindowHandle@5ca609]" name="newWindow" duration-ms="8871" started-at="2018-07-03T21:34:31Z" finished-at="2018-07-03T21:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newWindow -->
+        <test-method status="PASS" signature="newWindowClose()[pri:0, instance:MultipleWindow.MultipleWindowHandle@5ca609]" name="newWindowClose" duration-ms="20723" started-at="2018-07-03T21:34:40Z" finished-at="2018-07-03T21:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newWindowClose -->
+        <test-method status="PASS" signature="newWindowHandle()[pri:0, instance:MultipleWindow.MultipleWindowHandle@5ca609]" name="newWindowHandle" duration-ms="8321" started-at="2018-07-03T21:35:00Z" finished-at="2018-07-03T21:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newWindowHandle -->
+        <test-method status="PASS" signature="newWindowSwitch()[pri:0, instance:MultipleWindow.MultipleWindowHandle@5ca609]" name="newWindowSwitch" duration-ms="20008" started-at="2018-07-03T21:35:09Z" finished-at="2018-07-03T21:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newWindowSwitch -->
+        <test-method status="PASS" signature="endSession()[pri:0, instance:MultipleWindow.MultipleWindowHandle@5ca609]" name="endSession" is-config="true" duration-ms="906" started-at="2018-07-03T21:35:29Z" finished-at="2018-07-03T21:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- MultipleWindow.MultipleWindowHandle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
